@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Engineering (AI & ML)** student at **Woxsen University**, Hyderabad  
-📊 **CGPA: 8.29** (ongoing)  
+📊 **CGPA: 8.35** (ongoing)  
 
 🏆 **Guinness World Record certified hackathon participant**  
 🔥 Selected for National Level Hackathons  
